@@ -1,0 +1,20 @@
+h2 {
+    font-family:stencil ;
+    text-align: center;
+    font-size: 75px;
+}
+p {
+   font-family: stencil;
+   border: thick double #32a1ce;
+   text-align: center; 
+   background-color:#5FEC56; 
+}
+li :hover{
+    background-color:#D3D3D3;
+ border-color:#696969 #DCDCDC #DCDCDC #696969;
+}
+li {
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}

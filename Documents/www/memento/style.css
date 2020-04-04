@@ -1,0 +1,44 @@
+body {
+    background-color:#dfe6e9;
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu {
+    background-color: #95a5a6 ;
+    width: 300px;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    box-shadow: black;
+}
+.menu .logo {
+    width: 110px;
+    height: 190px;
+    margin: 25px auto 12px auto;
+}
+.menu h1 {
+    text-align: center;
+    color: #e74c3c;
+    font-size: 25px;
+}
+.menu ul {
+    text-align: left;
+    color: #e74c3c;
+    text-decoration-color: #e74c3c;
+    font-size: 18px;
+}
+.menu li a {
+    color: #e74c3c ;
+}
+.menu li a:hover {
+    color:yellow
+} 
+P {
+    border: aqua;
+    border-style: solid;
+    font-size:100px ;
+    margin: 600px;
+    text-align: center;
+    font-style: oblique;
+}
